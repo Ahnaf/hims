@@ -15,4 +15,4 @@ for full version or customization
 Winmac System
 Phone: 01612946622
 e-mail: hello@winmacsystem.com
-http://.winmacsystem.com
+winmacsystem.com
